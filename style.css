@@ -41,7 +41,9 @@ html::-webkit-scrollbar {
 }
 
 .instruction-box {
+  height: 80%;
   padding: 50px 100px;
+  overflow-y: scroll;
   background-color: #f5f6fa;
 }
 
